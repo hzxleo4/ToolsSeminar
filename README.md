@@ -1,5 +1,6 @@
 # Lab Assignment
 This repository is used to store my Lab course's assignment
+
 | Week | Assignment |
 |:--:|:--:|
 |week1| Regex|
