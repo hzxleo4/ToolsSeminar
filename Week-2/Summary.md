@@ -12,6 +12,6 @@ Article's linking:<br>
 * Supporting efficient and scalable parallel computation for GNN training is demanding due to its inherent complexi- ty. 
 ## Work
 
-* They develop a system called NeuGraph which unifys graph computation and deep learning systems for GNNs.
+* They develop a system called NeuGraph which unifies graph computation and deep learning systems for GNNs.
 
 
