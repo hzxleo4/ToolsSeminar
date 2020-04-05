@@ -23,6 +23,7 @@ int a[1010][1010] , n , m , tmp[1010] ;
 void MergeSort( int row , int l , int r ) {
 	int m = (l + r) >> 1 ; 
 	if( l==r ) return ; 
+	
 	MergeSort( row, l , m ) ;
 	MergeSort( row, m+1 , r ) ; 
 	int i = l , j = m+1 , cnt ; 
